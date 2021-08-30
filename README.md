@@ -1,2 +1,2 @@
 # WAIFEX
-SINGLE - PAGE
+[SINGLE - PAGE](https://tukashov.github.io/WAIFEX/)
